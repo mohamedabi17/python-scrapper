@@ -1,0 +1,87 @@
+1,head,html,{},meta,html,XXXXXXXX
+2,meta,head,{'charset': 'utf-8'},title,head,
+3,title,head,{'data-react-helmet': 'true'},,meta,XXXXXXXX
+4,meta,head,"{'data-react-helmet': 'true', 'name': 'description', 'content': 'Plone is an open-source content management system (CMS) with over 20 years of stability and security wrapped in a modern, powerful user-centric package with Plone 6. '}",meta,,
+5,meta,head,"{'data-react-helmet': 'true', 'property': 'og:title', 'content': 'Plone CMS: Open Source Content Management — Plone: Enterprise Level CMS - Free and OpenSource - Community Driven - Secure'}",meta,meta,
+6,meta,head,"{'data-react-helmet': 'true', 'property': 'og:url', 'content': 'https://plone.org'}",meta,meta,
+7,meta,head,"{'data-react-helmet': 'true', 'property': 'og:description', 'content': 'Plone is an open-source content management system (CMS) with over 20 years of stability and security wrapped in a modern, powerful user-centric package with Plone 6. '}",meta,meta,
+8,meta,head,"{'data-react-helmet': 'true', 'name': 'twitter:card', 'content': 'summary_large_image'}",script,meta,
+9,script,head,{},,meta,XXXXXXXX
+10,link,head,"{'rel': ['icon'], 'href': '/favicon.ico', 'sizes': 'any'}",link,,
+11,link,head,"{'rel': ['icon'], 'href': '/icon.svg', 'type': 'image/svg+xml'}",link,link,
+12,link,head,"{'rel': ['apple-touch-icon'], 'sizes': '180x180', 'href': '/apple-touch-icon.png'}",link,link,
+13,link,head,"{'rel': ['manifest'], 'href': '/site.webmanifest'}",meta,link,
+14,meta,head,"{'name': 'generator', 'content': 'Plone 6 - https://plone.org'}",meta,link,
+15,meta,head,"{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}",meta,meta,
+16,meta,head,"{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}",link,meta,
+17,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'style', 'href': '/static/css/client.276eb15e.chunk.css'}",link,meta,
+18,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'script', 'href': '/static/js/runtime~client.4fc921cf.js'}",link,link,
+19,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'script', 'href': '/static/js/client.c1012045.chunk.js'}",link,link,
+20,link,head,"{'data-chunk': 'client', 'rel': ['stylesheet'], 'href': '/static/css/client.276eb15e.chunk.css'}",body,link,
+21,body,html,"{'class': ['view-viewview', 'contenttype-plone-site', 'siteroot', 'is-anonymous', 'public-ui', 'view-component']}",div,link,XXXXXXXX
+22,div,body,"{'role': 'navigation', 'aria-label': 'Toolbar', 'id': 'toolbar'}",div,body,
+23,div,body,{'id': 'main'},div,div,XXXXXXXX
+24,div,body,{'id': 'sidebar'},script,,
+25,script,body,{'charset': 'UTF-8'},,div,XXXXXXXX
+26,script,body,"{'id': '__LOADABLE_REQUIRED_CHUNKS__', 'type': 'application/json'}",,,XXXXXXXX
+27,script,body,"{'id': '__LOADABLE_REQUIRED_CHUNKS___ext', 'type': 'application/json'}",,,XXXXXXXX
+28,script,body,"{'async': '', 'data-chunk': 'client', 'src': '/static/js/runtime~client.4fc921cf.js'}",script,,
+29,script,body,"{'async': '', 'data-chunk': 'client', 'src': '/static/js/client.c1012045.chunk.js'}",,script,
+30,head,html,{},meta,html,XXXXXXXX
+31,meta,head,{'charset': 'utf-8'},title,head,
+32,title,head,{'data-react-helmet': 'true'},,meta,XXXXXXXX
+33,meta,head,"{'data-react-helmet': 'true', 'name': 'description', 'content': 'Plone is an open-source content management system (CMS) with over 20 years of stability and security wrapped in a modern, powerful user-centric package with Plone 6. '}",meta,,
+34,meta,head,"{'data-react-helmet': 'true', 'property': 'og:title', 'content': 'Plone CMS: Open Source Content Management — Plone: Enterprise Level CMS - Free and OpenSource - Community Driven - Secure'}",meta,meta,
+35,meta,head,"{'data-react-helmet': 'true', 'property': 'og:url', 'content': 'https://plone.org'}",meta,meta,
+36,meta,head,"{'data-react-helmet': 'true', 'property': 'og:description', 'content': 'Plone is an open-source content management system (CMS) with over 20 years of stability and security wrapped in a modern, powerful user-centric package with Plone 6. '}",meta,meta,
+37,meta,head,"{'data-react-helmet': 'true', 'name': 'twitter:card', 'content': 'summary_large_image'}",script,meta,
+38,script,head,{},,meta,XXXXXXXX
+39,link,head,"{'rel': ['icon'], 'href': '/favicon.ico', 'sizes': 'any'}",link,,
+40,link,head,"{'rel': ['icon'], 'href': '/icon.svg', 'type': 'image/svg+xml'}",link,link,
+41,link,head,"{'rel': ['apple-touch-icon'], 'sizes': '180x180', 'href': '/apple-touch-icon.png'}",link,link,
+42,link,head,"{'rel': ['manifest'], 'href': '/site.webmanifest'}",meta,link,
+43,meta,head,"{'name': 'generator', 'content': 'Plone 6 - https://plone.org'}",meta,link,
+44,meta,head,"{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}",meta,meta,
+45,meta,head,"{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}",link,meta,
+46,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'style', 'href': '/static/css/client.276eb15e.chunk.css'}",link,meta,
+47,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'script', 'href': '/static/js/runtime~client.4fc921cf.js'}",link,link,
+48,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'script', 'href': '/static/js/client.c1012045.chunk.js'}",link,link,
+49,link,head,"{'data-chunk': 'client', 'rel': ['stylesheet'], 'href': '/static/css/client.276eb15e.chunk.css'}",body,link,
+50,body,html,"{'class': ['view-viewview', 'contenttype-plone-site', 'siteroot', 'is-anonymous', 'public-ui', 'view-component']}",div,link,XXXXXXXX
+51,div,body,"{'role': 'navigation', 'aria-label': 'Toolbar', 'id': 'toolbar'}",div,body,
+52,div,body,{'id': 'main'},div,div,XXXXXXXX
+53,div,body,{'id': 'sidebar'},script,,
+54,script,body,{'charset': 'UTF-8'},,div,XXXXXXXX
+55,script,body,"{'id': '__LOADABLE_REQUIRED_CHUNKS__', 'type': 'application/json'}",,,XXXXXXXX
+56,script,body,"{'id': '__LOADABLE_REQUIRED_CHUNKS___ext', 'type': 'application/json'}",,,XXXXXXXX
+57,script,body,"{'async': '', 'data-chunk': 'client', 'src': '/static/js/runtime~client.4fc921cf.js'}",script,,
+58,script,body,"{'async': '', 'data-chunk': 'client', 'src': '/static/js/client.c1012045.chunk.js'}",,script,
+59,head,html,{},meta,html,XXXXXXXX
+60,meta,head,{'charset': 'utf-8'},title,head,
+61,title,head,{'data-react-helmet': 'true'},,meta,XXXXXXXX
+62,meta,head,"{'data-react-helmet': 'true', 'name': 'description', 'content': 'Plone is an open-source content management system (CMS) with over 20 years of stability and security wrapped in a modern, powerful user-centric package with Plone 6. '}",meta,,
+63,meta,head,"{'data-react-helmet': 'true', 'property': 'og:title', 'content': 'Plone CMS: Open Source Content Management — Plone: Enterprise Level CMS - Free and OpenSource - Community Driven - Secure'}",meta,meta,
+64,meta,head,"{'data-react-helmet': 'true', 'property': 'og:url', 'content': 'https://plone.org'}",meta,meta,
+65,meta,head,"{'data-react-helmet': 'true', 'property': 'og:description', 'content': 'Plone is an open-source content management system (CMS) with over 20 years of stability and security wrapped in a modern, powerful user-centric package with Plone 6. '}",meta,meta,
+66,meta,head,"{'data-react-helmet': 'true', 'name': 'twitter:card', 'content': 'summary_large_image'}",script,meta,
+67,script,head,{},,meta,XXXXXXXX
+68,link,head,"{'rel': ['icon'], 'href': '/favicon.ico', 'sizes': 'any'}",link,,
+69,link,head,"{'rel': ['icon'], 'href': '/icon.svg', 'type': 'image/svg+xml'}",link,link,
+70,link,head,"{'rel': ['apple-touch-icon'], 'sizes': '180x180', 'href': '/apple-touch-icon.png'}",link,link,
+71,link,head,"{'rel': ['manifest'], 'href': '/site.webmanifest'}",meta,link,
+72,meta,head,"{'name': 'generator', 'content': 'Plone 6 - https://plone.org'}",meta,link,
+73,meta,head,"{'name': 'viewport', 'content': 'width=device-width, initial-scale=1'}",meta,meta,
+74,meta,head,"{'name': 'apple-mobile-web-app-capable', 'content': 'yes'}",link,meta,
+75,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'style', 'href': '/static/css/client.276eb15e.chunk.css'}",link,meta,
+76,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'script', 'href': '/static/js/runtime~client.4fc921cf.js'}",link,link,
+77,link,head,"{'data-chunk': 'client', 'rel': ['preload'], 'as': 'script', 'href': '/static/js/client.c1012045.chunk.js'}",link,link,
+78,link,head,"{'data-chunk': 'client', 'rel': ['stylesheet'], 'href': '/static/css/client.276eb15e.chunk.css'}",body,link,
+79,body,html,"{'class': ['view-viewview', 'contenttype-plone-site', 'siteroot', 'is-anonymous', 'public-ui', 'view-component']}",div,link,XXXXXXXX
+80,div,body,"{'role': 'navigation', 'aria-label': 'Toolbar', 'id': 'toolbar'}",div,body,
+81,div,body,{'id': 'main'},div,div,XXXXXXXX
+82,div,body,{'id': 'sidebar'},script,,
+83,script,body,{'charset': 'UTF-8'},,div,XXXXXXXX
+84,script,body,"{'id': '__LOADABLE_REQUIRED_CHUNKS__', 'type': 'application/json'}",,,XXXXXXXX
+85,script,body,"{'id': '__LOADABLE_REQUIRED_CHUNKS___ext', 'type': 'application/json'}",,,XXXXXXXX
+86,script,body,"{'async': '', 'data-chunk': 'client', 'src': '/static/js/runtime~client.4fc921cf.js'}",script,,
+87,script,body,"{'async': '', 'data-chunk': 'client', 'src': '/static/js/client.c1012045.chunk.js'}",,script,
